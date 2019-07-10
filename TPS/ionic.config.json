@@ -1,0 +1,7 @@
+{
+  "name": "TPS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
